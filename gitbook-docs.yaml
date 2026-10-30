@@ -13,6 +13,5 @@ site:
       key: space-1
       title: Daone Prestashop v9.0
       path: daone-prestashop-v9.0
-      draft: true
       content:
         directory: ./daone-prestashop-v9.0
