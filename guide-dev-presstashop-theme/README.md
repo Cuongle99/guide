@@ -1,4 +1,0 @@
-# 📔 Guide Dev Prestashop
-
-demo
-
