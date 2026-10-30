@@ -9,10 +9,3 @@ site:
       default: true
       content:
         directory: ./
-    - type: space
-      key: space-1
-      title: Guide install Prestashop
-      path: guide-install-prestashop
-      draft: true
-      content:
-        directory: ./guide-install-prestashop
