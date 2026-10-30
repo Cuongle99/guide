@@ -1,14 +1,18 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
-
-root: ./
-
 site:
-  title: "Tài liệu PrestaShop Dev"
+  title: Tài liệu PrestaShop Dev
   structure:
     - type: space
       key: prestashop-dev
-      title: "PrestaShop Dev"
+      title: PrestaShop Dev
       path: prestashop-dev
       default: true
       content:
         directory: ./
+    - type: space
+      key: space-1
+      title: Guide install Prestashop
+      path: guide-install-prestashop
+      draft: true
+      content:
+        directory: ./guide-install-prestashop
