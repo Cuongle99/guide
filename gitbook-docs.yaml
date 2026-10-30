@@ -2,7 +2,6 @@ root: ./
 
 site:
   title: "Tài liệu PrestaShop Dev"
-
-structure:
-  readme: README.md
-  summary: SUMMARY.md
+  structure:
+      readme: README.md
+      summary: SUMMARY.md
