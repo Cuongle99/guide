@@ -1,17 +1,14 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
+
+root: ./
+
 site:
-  title: Daone Prestashop v9.0
+  title: "Tài liệu PrestaShop Dev"
   structure:
     - type: space
-      key: space-1
-      title: Daone Prestashop v9.0
-      path: daone-prestashop-v9.0
+      key: prestashop-dev
+      title: "PrestaShop Dev"
+      path: prestashop-dev
       default: true
       content:
-        directory: null
-    - type: space
-      key: space-2
-      title: Guide Dev Presstashop Theme
-      path: guide-dev-presstashop-theme
-      content:
-        directory: ./guide-dev-presstashop-theme
+        directory: ./
