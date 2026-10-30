@@ -1,7 +1,14 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
 root: ./
 
 site:
   title: "Tài liệu PrestaShop Dev"
   structure:
-      readme: README.md
-      summary: SUMMARY.md
+    - type: space
+      key: prestashop-dev
+      title: "PrestaShop Dev"
+      path: prestashop-dev
+      default: true
+      content:
+        directory: ./
